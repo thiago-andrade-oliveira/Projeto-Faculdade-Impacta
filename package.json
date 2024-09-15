@@ -1,0 +1,19 @@
+{
+  "name": "projeto-faculdade-impacta",
+  "version": "1.0.0",
+  "description": "projeto faculdade impacta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.1",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4",
+    "projeto-faculdade-impacta": "file:"
+  }
+}
