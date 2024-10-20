@@ -1,0 +1,41 @@
+form{
+    margin-top: 30px;
+    text-align: center;
+}
+
+form input{
+    margin-bottom: 10px;
+}
+
+form input[type="submit"]{
+    margin-top: 10px;
+}
+
+form img{
+    width: 170px;
+    margin-bottom: 40px;
+    border-radius: 10px;  
+}
+
+.card{
+    margin-top: 40px;
+    padding: 5px;
+}
+
+.item{
+    display: flex;
+    margin-top: 5px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.preco{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: -10px;
+    
+}
+.card a{
+    margin-top: 5px;
+}
